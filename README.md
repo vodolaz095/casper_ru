@@ -18,4 +18,4 @@
 
 Скачать крайний zip файл в [релизах](https://github.com/vodolaz095/casper_ru/releases), загрузить в меню
    
-![https://raw.githubusercontent.com/vodolaz095/casper_ru/master/assets/KqSGRAvvE.png](где загружать)
+![как загрузить шаблон](https://raw.githubusercontent.com/vodolaz095/casper_ru/master/assets/KqSGRAvvE.png)
