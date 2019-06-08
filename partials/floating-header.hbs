@@ -10,6 +10,10 @@
     <span class="floating-header-divider">&mdash;</span>
     <div class="floating-header-title">{{title}}</div>
     <div class="floating-header-share">
+      <div class="floating-header-share-label">Поделитьсяс информацией {{> "icons/point"}}</div>
+      <a class="floating-header-share-tw" href="https://vk.com/share.php?url={{url absolute="true"}}">
+        <img src="{{asset "vk_com.ico"}}" alt="Поделиться в социальной сети Вконтакте">
+      </a>
     </div>
     <progress id="reading-progress" class="progress" value="0">
         <div class="progress-container">
