@@ -1,6 +1,6 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
+    "name": "casper_rus",
+    "description": "Переведённый на Русский язык шаблон Casper.  Красивый (о вкусах не спорят), лаконичный и хорошо отображается на всех типах устройств.",
     "demo": "https://demo.ghost.io",
     "version": "2.10.2",
     "engines": {
@@ -36,11 +36,12 @@
     "keywords": [
         "ghost",
         "theme",
-        "ghost-theme"
+        "ghost-theme",
+        "russian"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/vodolaz095/casper_ru.git"
     },
     "bugs": "https://github.com/TryGhost/Casper/issues",
     "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
